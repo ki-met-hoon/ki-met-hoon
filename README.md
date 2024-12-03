@@ -19,8 +19,8 @@ Portfolio : <a href="https://kimethoon.notion.site/portfolio">Notion Link</a><br
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/talend-FF6D70?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Postman&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Intellij Idea-000000?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intellij Idea-000000?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/><br><br>
 
 <br><br>
