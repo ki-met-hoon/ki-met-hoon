@@ -5,7 +5,7 @@
 <h3>📚 반갑습니다! 현재 공부중인 주니어 백엔드 개발자 김세훈입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3><br><br>
 Email : shggm2000@gmail.com <br>
-Portfolio : [Notion Link](https://kimethoon.notion.site/portfolio)<br><br>
+Portfolio : <a href="https://kimethoon.notion.site/portfolio">Notion Link</a><br><br><br>
 
 ![js](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=JavaScript&logoColor=white)
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
